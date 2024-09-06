@@ -8,6 +8,10 @@ ReactDOM.render(
   <div>
     <Keypad />
     <EyesOnMe />
+
+    <div>
+      test
+    </div>
   </div>,
   document.getElementById('root')
 );
